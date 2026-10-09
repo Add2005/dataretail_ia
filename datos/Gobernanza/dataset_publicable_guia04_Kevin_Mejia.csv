@@ -1,0 +1,7 @@
+id_cliente,nombre,correo,telefono,edad,municipio,segmento,cliente_token,correo_mask,telefono_mask,rango_edad
+1001,Ana Lopez,ana.lopez@example.test,70001111,22,Santa Tecla,Digital,1902f476b8ab,a***@example.test,****1111,10-24
+1002,Carlos Perez,carlos.perez@example.test,70002222,35,San Salvador,Frecuente,74bb3187774c,c***@example.test,****2222,35-44
+1003,Maria Rivas,maria.rivas@example.test,70003333,29,Santa Tecla,Digital,610d21e69efd,m***@example.test,****3333,25-34
+1004,Jose Hernandez,jose.hernandez@example.test,70004444,47,Soyapango,Corporativo,0cdbf154dd71,j***@example.test,****4444,45-54
+1005,Lucia Gomez,lucia.gomez@example.test,70005555,31,San Salvador,Frecuente,f98c1d8aeba4,l***@example.test,****5555,25-34
+1006,Daniel Cruz,daniel.cruz@example.test,70006666,40,Apopa,Corporativo,d1910696ed7f,d***@example.test,****6666,35-44
